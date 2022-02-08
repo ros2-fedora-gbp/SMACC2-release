@@ -1,0 +1,8 @@
+ros-rolling-smacc2-msgs (0.1.0-2jammy) jammy; urgency=high
+
+  * Initial release of SMACC2 core
+  * Contributors: Brett Aldrich, Pablo Inigo Blasco, Denis Štogl
+
+ -- Brett Aldrich <brett@robosoft.ai>  Tue, 31 Aug 2021 07:00:00 -0000
+
+
