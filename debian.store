@@ -1,1 +1,1 @@
-{"base": "f4465d8", "parent": "debian/rolling/smacc2_msgs", "previous": "b1ba22e", "trim": "", "trimbase": ""}
+{"base": "dcc7223", "parent": "debian/humble/smacc2_msgs", "previous": "5a4931b", "trim": "", "trimbase": ""}
